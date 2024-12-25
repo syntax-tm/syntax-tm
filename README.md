@@ -8,7 +8,7 @@
 <hr/>
 
 <p align="center">
-  <a href="gundwn.gg" title="My Links">
+  <a href="https://gundwn.gg" title="My Links">
     <img src="https://raw.githubusercontent.com/syntax-tm/gundwn.gg/refs/heads/main/docs/preview.webp" alt="Preview" />
   </a>
 </p>
